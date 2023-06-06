@@ -1,4 +1,4 @@
-![logo](https://github.com/Swapnil-11-04-01/Swapnil-11-04-01/blob/main/Swapnil_Sharma_Github_Banner.png)
+<a href="https://ibb.co/b2Yht9S"><img src="https://i.ibb.co/3MVXKZD/Swapnil-Sharma-Github-Banner-1.png" alt="Swapnil-Sharma-Github-Banner-1" width=100% border="0"></a>
 <h1 align="center">Hi 👋, I'm Swapnil Sharma</h1>
 <h3 align="center">Aspiring Data Scientist & Machine Learning enthusiast, seeking to learn & grow in the field. Passionate about uncovering insights & driving value through data analysis & modeling.</h3>
 
