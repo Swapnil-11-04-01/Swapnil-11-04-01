@@ -1,6 +1,6 @@
 <a href="https://ibb.co/b2Yht9S"><img src="https://i.ibb.co/3MVXKZD/Swapnil-Sharma-Github-Banner-1.png" alt="Swapnil-Sharma-Github-Banner-1" width=100% border="0"></a>
 <h1 align="center">Hi 👋, I'm Swapnil Sharma</h1>
-<h3 align="center">Aspiring Data Scientist & Machine Learning enthusiast, seeking to learn & grow in the field. Passionate about uncovering insights & driving value through data analysis & modeling.</h3>
+<h3 align="center">An independent and self-motivated student with proven ability and experienced in developing Data Science projects in domains like NLP, Supervised Learning, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-11-04-01&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-11-04-01" /> </p>
 
