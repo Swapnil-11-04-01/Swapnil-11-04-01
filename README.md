@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil-11-04-01" alt="swapnil-11-04-01" /></a> </p>
 
+<img align='right' alt='coding' width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 🌱 I’m currently learning more about **NLP, Deep Learning and MLOps**
 
 - 👨‍💻My projects are available at [https://swapnil-11-04-01.github.io/Personal-Portfolio/](https://swapnil-11-04-01.github.io/Personal-Portfolio/)
