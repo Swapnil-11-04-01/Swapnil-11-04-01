@@ -38,17 +38,12 @@
 <a href="https://instagram.com/swapnil_sharma_11" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swapnil_sharma_11" height="30" width="40" /></a>
 <a href="https://kaggle.com/swapnilsharma110401" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swapnilsharma110401" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/swapnil.sharma.869.11" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="swapnil.sharma.869.11" height="30" width="40" /></a>
-
-  
 <a href="https://dev.to/swapnil110401" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swapnil110401" height="30" width="40" /></a>  
 <a href="https://medium.com/@swapnil.sharma.869.11" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swapnil.sharma.869.11" height="30" width="40" /></a>
 <a href="https://hashnode.com/@swapnil110401" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@swapnil110401" height="30" width="40" /></a>
-  
 <a href="https://dribbble.com/swaonil_sharma_1104" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="swaonil_sharma_1104" height="30" width="40" /></a>
-  
 <a href="https://codesandbox.com/swapnil-11-04-01" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="swapnil-11-04-01" height="30" width="40" /></a>
 <a href="https://codepen.io/swapnil-sharma-the-selector" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swapnil-sharma-the-selector" height="30" width="40" /></a>
-  
 <a href="https://www.topcoder.com/members/swapnil_11" target="blank"><img align="center" src="https://raw.github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="swapnil_11" height="30" width="40" /></a>
 </p>
 
