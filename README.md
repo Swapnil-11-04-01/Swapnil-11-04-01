@@ -1,4 +1,4 @@
-<a href="https://ibb.co/b2Yht9S"><img src="https://i.ibb.co/3MVXKZD/Swapnil-Sharma-Github-Banner-1.png" alt="Swapnil-Sharma-Github-Banner-1" width=100% border="0"></a>
+<img src="https://i.ibb.co/3MVXKZD/Swapnil-Sharma-Github-Banner-1.png" alt="Swapnil-Sharma-Github-Banner-1" width=100% border="0"></a>
 <h1 align="center">Hi 👋, I'm Swapnil Sharma</h1>
 <h3 align="center">An independent and self-motivated student with proven ability and experienced in developing Data Science projects in domains like NLP, Supervised Learning, etc.</h3>
 
