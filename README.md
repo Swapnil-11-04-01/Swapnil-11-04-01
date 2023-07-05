@@ -10,17 +10,17 @@
 
 - 🌱 I’m currently learning more about **NLP, Deep Learning and MLOps**
 
-- 👨‍💻My projects are available at [https://swapnil-11-04-01.github.io/Personal-Portfolio/](https://swapnil-11-04-01.github.io/Personal-Portfolio/)
+- 👨‍💻My projects are available at -> [Portfolio Link](https://swapnil-11-04-01.github.io/Personal-Portfolio/)
 
-- 📝 I have started writing articles on [https://medium.com/@swapnil.sharma.869.11](https://medium.com/@swapnil.sharma.869.11)
+- 📝 I have started writing articles on -> [Link to Medium](https://medium.com/@swapnil.sharma.869.11)
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Artificial Intelligence, Data Science, MLOps**
+- 💬 Ask me about -> **Python, Machine Learning, Deep Learning, Artificial Intelligence, Data Science, MLOps**
 
-- 📫 How to reach me **swapnil.sharma.869.11@gmail.com**
+- 📫 How to reach me -> **swapnil.sharma.869.11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZQzngO9G1t_hrIYUeBLVTDmmjkGgjyti/view?usp=sharing](https://drive.google.com/file/d/1ZQzngO9G1t_hrIYUeBLVTDmmjkGgjyti/view?usp=sharing)
+- 📄 Know about my experiences -> [Resume Link](https://drive.google.com/file/d/1Hbe7yZNqyVGaQJmic6z6DX_f0f6vYCJe/view?usp=sharing)
 
-- ⚡ Fun fact **LOVES the NATURE🌳 + LOVING in NATURE 😊**
+- ⚡ Fun fact -> **LOVES the NATURE🌳 +  LOVING in NATURE 😊**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
